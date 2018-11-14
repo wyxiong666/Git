@@ -1,5 +1,6 @@
-![Image text]()
+    
 # Git 上传使用心得
+ ![Image text](https://github.com/wyxiong666/Git/blob/master/git.jpg)
 ## 1.git配置
    >config --global user.name "你的用户名"
    >git config --global user.email "你的邮箱"
