@@ -1,5 +1,4 @@
-    
-           ![Image text](https://github.com/wyxiong666/Git/blob/master/git.jpg)
+  ![Image text](https://github.com/wyxiong666/Git/blob/master/git.jpg)
 # Git 上传使用心得
 ## 1.git配置
    >config --global user.name "你的用户名"
